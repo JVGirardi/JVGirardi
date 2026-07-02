@@ -6,7 +6,7 @@
 
 ---
 
-Welcome! I'm a motivated software development student and intern. I'm continuously learning and improving my problem-solving skills and tech stack. I like to solve problems and bring ideas to life by collaborating with others. If you have a project in mind, want to discuss ideas, or just want to say hi, feel free to reach out!
+Welcome! I'm a motivated software development student continuously learning and improving my problem-solving skills and tech stack. I like to solve problems and bring ideas to life by collaborating with others. If you have a project in mind, want to discuss ideas, or just want to say hi, feel free to reach out!
 
 ---
 
