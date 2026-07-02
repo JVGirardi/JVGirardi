@@ -12,8 +12,8 @@ Welcome! I'm a motivated software development student and intern. I'm continuous
 
 ### 🧠 About Me
 
-- 🔭 Software Developer Intern at [@SystemHaus](https://systemhaus.com.br/)
-- 🎓 Studying Systems Analysis and Development at [@UNISINOS](https://unisinos.br/)
+- 🔭 Software Developer Intern at @[SystemHaus](https://systemhaus.com.br/)
+- 🎓 Studying Systems Analysis and Development at @[UNISINOS](https://unisinos.br/)
 
 ---
 
