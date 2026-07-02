@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm João Vitor!
 
 <p align="center">
-  <img src="https://github.com/JVGirardi/JVGirardi/blob/main/hello-world.jpg" width="1000px" alt="hello world" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtpbWtna2w5cXZza2J6ejE5c296MzYzNDQ4Nm11bDkxdHM2eHR6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2f7UaJcuNVFDEM66fd/giphy.gif" width="1000px" alt="hello world" />
 </p>
 
 ---
